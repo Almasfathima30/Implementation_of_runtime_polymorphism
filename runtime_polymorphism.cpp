@@ -62,7 +62,4 @@ int main()
     ptr=&t;
     cout<<"Area of triangle:"<<ptr->area()<<endl;
     return 0;
-}cd /d "C:\Users\Almas fathima A.W\MyProject"
-runtime_polymorphism.execd /d "C:\Users\Almas fathima A.W\MyProject"
-runtime_polymorphism.execd /d "C:\Users\Almas fathima A.W\MyProject"
-runtime_polymorphism.exe
+}
